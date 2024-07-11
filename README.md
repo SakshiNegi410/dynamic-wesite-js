@@ -1,1 +1,1 @@
-# dynamic-wesite-js
+# dynamic-website-js
